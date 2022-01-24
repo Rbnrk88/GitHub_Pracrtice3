@@ -1,4 +1,7 @@
 public class TestCase003 {
-    //c
-    //d
+    public static void main(String[] args) {
+
+        //a
+        //b
+    }
 }
