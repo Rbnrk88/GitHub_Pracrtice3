@@ -1,5 +1,7 @@
 package hello;
 
 public class TestCase004 {
-    //a
+    //a 004
+
+    //b 004
 }
